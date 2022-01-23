@@ -1,0 +1,23 @@
+body {
+  background: -webkit-linear-gradient(to right, #43cea2, #185a9d);
+  background: linear-gradient(to right, #43cea2, #185a9d);
+}
+.App {
+  font-family: 'Trebuchet MS';
+}
+.App a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+input {
+  background-color: #44475a;
+  border: 1px solid #6272a4;
+  border-radius: 8px;
+  padding: 5px 10px;
+  color: #fff;
+}
+input:focus {
+  border-color: #bd93f9;
+  outline: none;
+}
